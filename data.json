@@ -1,0 +1,35 @@
+{
+    "familia":"D'Acosta",
+    "origen":"Portugal",
+    "raza":"blanca",
+    "cantidadDeFamiliares": 5,
+    "miembros": [
+        {
+            "nombre":"Mario",
+            "edad":62,
+            "enPareja":false
+        },
+        {
+            "nombre":"Facundo",
+            "edad":24,
+            "enPareja":true
+        },
+        
+        {
+            "nombre":"Diego",
+            "edad":23,
+            "enPareja":false
+        },
+        {
+            "nombre":"Lucia",
+            "edad":20,
+            "enPareja":true
+        },
+        {
+            "nombre":"Ezequiel",
+            "edad":17,
+            "enPareja":false
+        }
+    ]
+
+}
